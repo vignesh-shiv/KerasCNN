@@ -1,4 +1,4 @@
 # KerasCNN
-
-Dive straight into the code.
+ 
+Dive straight into the code.  :P
 
